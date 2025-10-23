@@ -1,6 +1,7 @@
 ## Hi there 👋
 
-<img src="https://github-readme-stats.vercel.app/api?username=sottti&show_icons=true&theme=graywhite" align="right" />
+<img src="https://github-readme-stats.vercel.app/api?username=sottti&show_icons=true&theme=graywhite#gh-light-mode-only" align="right"/>
+<img src="https://github-readme-stats.vercel.app/api?username=sottti&show_icons=true&theme=github_dark#gh-dark-mode-only" align="right"/>
 
 I'm Pablo, an Android Engineer that loves all things Android, specially Jetpack Compose and Design Systems.
 
